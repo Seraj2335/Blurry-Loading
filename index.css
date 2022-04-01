@@ -19,7 +19,7 @@ body {
   top: -30px;
   left: -30px;
   width: 200vmax;
-  height: 200vh;
+
   z-index: -1;
   filter: blur(1px);
 }
