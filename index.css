@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: 'Ubuntu', 'monserrat';
+  font-family:  'monserrat';
   display: flex;
   justify-content: center;
   height: 100vh;
@@ -25,7 +25,6 @@ body {
 }
 
 .loading-text {
-  
   font-size: 50px;
   color: #fff;
 }
