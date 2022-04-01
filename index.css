@@ -1,0 +1,31 @@
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Ubuntu', 'monserrat';
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+ align-items: center;
+  margin: 0;
+}
+
+.bg {
+  background: url('https://scontent.frdp6-1.fna.fbcdn.net/v/t1.6435-9/188959978_3845196672245366_7127226025693683562_n.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=hnL6wRJIpcEAX_Dd7TN&_nc_ht=scontent.frdp6-1.fna&oh=00_AT-7dv54fn33kJZh8PAHB8m3AACd8UvGhEobIq3UYWj9BA&oe=626B882E');
+  position: absolute;
+  top: -30px;
+  left: -30px;
+  width: 200vmax;
+  height: 200vh;
+  z-index: -1;
+  filter: blur(1px);
+}
+
+.loading-text {
+  
+  font-size: 50px;
+  color: #fff;
+}
